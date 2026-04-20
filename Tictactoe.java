@@ -1,4 +1,4 @@
-public class tictactoe(
+public class Tictactoe(
     static char [][] board = new char [3][3];
     
     public static void main(String [] args){
@@ -13,4 +13,5 @@ public class tictactoe(
             }
         }
     }
-)
+)  
+
